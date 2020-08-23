@@ -1,0 +1,120 @@
+ #WELCOME SCREEN##########################################################################################################
+		 WELCOME  TO  LOCKER'S SCREEN PVT. LTD.
+	 Applications Details : LockerScreen FileSytem Prototype (Standlone & UI through Command Line )
+	 Developer Details : Mahalaxmi Chinchani (JAVA/JEE Developer)
+	 User Interface for the Applications:
+		1.Display Root Directory Filenames in Lexicographical order 
+		2. File IO Operations 
+		3. Exit Application
+Please Enter your choice:  
+ ########################################################################################################################
+
+1
+*********************Lexicographical Order************# 10.MainMenu #3.Exit*********
+Root Directory :D:\02-Mahi\JAVA\simplilearn\lockerScreenFileSystem\src\com\simplilearn\rootDirectory
+test123.txt
+testfile.txt
+***************************************************************
+2
+*********************File IO Operation************# 10.MainMenu #3.Exit*********
+	 File IO Operation for the Applications:
+		 A.ADD  
+		 D.DELETE 
+		 S.SEARCH
+ Please Enter your choice: 
+ ********************************************************************************
+A
+*********************Add File*********************
+Enter the file to add root directory
+test.txt
+The new file is created.
+********************Lexicographical Order**********************0. BACK > 10. MAINMENU > 3. EXIT APPLICATION*
+Root Directory :D:\02-Mahi\JAVA\simplilearn\lockerScreenFileSystem\src\com\simplilearn\rootDirectory
+test123.txt
+test.txt
+testfile.txt
+***************************************************************
+0
+*********************Add File*********************
+Enter the file to add root directory
+test.txt
+The file already exists.
+Enter your choice :0. BACK > 10. MAINMENU > 3. EXIT APPLICATION
+0
+*********************Add File*********************
+Enter the file to add root directory
+userDetails.txt
+The new file is created.
+********************Lexicographical Order**********************0. BACK > 10. MAINMENU > 3. EXIT APPLICATION*
+Root Directory :D:\02-Mahi\JAVA\simplilearn\lockerScreenFileSystem\src\com\simplilearn\rootDirectory
+test123.txt
+test.txt
+testfile.txt
+userDetails.txt
+***************************************************************
+10
+ #WELCOME SCREEN##########################################################################################################
+		 WELCOME  TO  LOCKER'S SCREEN PVT. LTD.
+	 Applications Details : LockerScreen FileSytem Prototype (Standlone & UI through Command Line )
+	 Developer Details : Mahalaxmi Chinchani (JAVA/JEE Developer)
+	 User Interface for the Applications:
+		1.Display Root Directory Filenames in Lexicographical order 
+		2. File IO Operations 
+		3. Exit Application
+Please Enter your choice:  
+ ########################################################################################################################
+
+2
+*********************File IO Operation************# 10.MainMenu #3.Exit*********
+	 File IO Operation for the Applications:
+		 A.ADD  
+		 D.DELETE 
+		 S.SEARCH
+ Please Enter your choice: 
+ ********************************************************************************
+d
+*********************Delete File*********************
+Enter the file to delet from root directory
+Test.txt
+The  file is deleted.
+Enter your choice :0. BACK > 10. MAINMENU > 3. EXIT APPLICATION
+0
+*********************Delete File*********************
+Enter the file to delet from root directory
+renameFile.txt
+Failed to delete the file || File not found 
+Enter your choice :0. BACK > 10. MAINMENU > 3. EXIT APPLICATION
+10
+ #WELCOME SCREEN##########################################################################################################
+		 WELCOME  TO  LOCKER'S SCREEN PVT. LTD.
+	 Applications Details : LockerScreen FileSytem Prototype (Standlone & UI through Command Line )
+	 Developer Details : Mahalaxmi Chinchani (JAVA/JEE Developer)
+	 User Interface for the Applications:
+		1.Display Root Directory Filenames in Lexicographical order 
+		2. File IO Operations 
+		3. Exit Application
+Please Enter your choice:  
+ ########################################################################################################################
+
+2
+*********************File IO Operation************# 10.MainMenu #3.Exit*********
+	 File IO Operation for the Applications:
+		 A.ADD  
+		 D.DELETE 
+		 S.SEARCH
+ Please Enter your choice: 
+ ********************************************************************************
+s
+*********************Search File*********************
+Enter the file to search from root directory
+testfile.txt
+File Found :testfile.txt
+Enter your choice :0. BACK > 10. MAINMENU > 3. EXIT APPLICATION
+0
+*********************Search File*********************
+Enter the file to search from root directory
+userkey
+Unsuccessful Search || File not found 
+Enter your choice :0. BACK > 10. MAINMENU > 3. EXIT APPLICATION
+3
+Exiting the Application...
